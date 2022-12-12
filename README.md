@@ -4,7 +4,6 @@ A simple program to tabulate the number of unique DNA barcodes flanked by define
 ## Table of Contents
   1. Installation
   2. File description
-  4. Licensing
 
 ## Installation
 For local usage, the code runs with Python version **3**.
